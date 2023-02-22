@@ -56,6 +56,8 @@ def funcionPython():
     Something small enough to escape casual notice.
 </details>
 
+texto
+
 ```mermaid
 sequenceDiagram
   A-->B: Works!
